@@ -1,0 +1,1 @@
+# Wind-speed-prediction-using-machine-learning-keras-api-location-saskatoon-sk-ca.-
